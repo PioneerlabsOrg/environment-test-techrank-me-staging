@@ -12,7 +12,7 @@ dependencies:
   version: 0.0.6
 - name: techrank-problems-01
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
+  version: 0.0.7
 - name: techrank-problems-spring-boot-reactjs-basic
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
